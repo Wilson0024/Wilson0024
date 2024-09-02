@@ -12,6 +12,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Wilson0024&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilson0024&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 🥇 LeetCode Stats:
+[![LeetCode Stats](https://leetcard.jacoblin.cool/wlsn_Potatoo?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/wlsn_Potatoo/)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Wilson0024&icon=0&color=0)](https://visitcount.itsvg.in)
 
