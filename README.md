@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on expenses tracker web<br>🌱 I’m currently learning HTML, CSS, JS
+🔭 I’m currently working on expenses tracker web<br>🌱 I’m currently learning HTML, CSS, JavaScript, and Python
 
 
 ## 🌐 Socials:
